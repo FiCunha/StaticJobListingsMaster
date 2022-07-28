@@ -2,8 +2,8 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  templateUrl: './components/static-job-listings.components.html',
+  styleUrls: ['./components/static-job-listings.components.css']
 })
 export class AppComponent {
   title = 'StaticJobListingsMaster.UI';
